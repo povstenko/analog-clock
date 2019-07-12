@@ -1,0 +1,28 @@
+c:\users\teather\documents\visual studio 2017\Projects\AnalogClock\AnalogClock\bin\Debug\AnalogClock.exe.config
+c:\users\teather\documents\visual studio 2017\Projects\AnalogClock\AnalogClock\bin\Debug\AnalogClock.exe
+c:\users\teather\documents\visual studio 2017\Projects\AnalogClock\AnalogClock\bin\Debug\AnalogClock.pdb
+c:\users\teather\documents\visual studio 2017\Projects\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csprojResolveAssemblyReference.cache
+c:\users\teather\documents\visual studio 2017\Projects\AnalogClock\AnalogClock\obj\Debug\AnalogClock.Form1.resources
+c:\users\teather\documents\visual studio 2017\Projects\AnalogClock\AnalogClock\obj\Debug\AnalogClock.Properties.Resources.resources
+c:\users\teather\documents\visual studio 2017\Projects\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csproj.GenerateResource.Cache
+c:\users\teather\documents\visual studio 2017\Projects\AnalogClock\AnalogClock\obj\Debug\AnalogClock.exe
+c:\users\teather\documents\visual studio 2017\Projects\AnalogClock\AnalogClock\obj\Debug\AnalogClock.pdb
+C:\Users\MAK\Desktop\AnalogClock\AnalogClock\bin\Debug\AnalogClock.exe.config
+C:\Users\MAK\Desktop\AnalogClock\AnalogClock\bin\Debug\AnalogClock.exe
+C:\Users\MAK\Desktop\AnalogClock\AnalogClock\bin\Debug\AnalogClock.pdb
+C:\Users\MAK\Desktop\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csprojResolveAssemblyReference.cache
+C:\Users\MAK\Desktop\AnalogClock\AnalogClock\obj\Debug\AnalogClock.Form1.resources
+C:\Users\MAK\Desktop\AnalogClock\AnalogClock\obj\Debug\AnalogClock.Properties.Resources.resources
+C:\Users\MAK\Desktop\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csproj.GenerateResource.Cache
+C:\Users\MAK\Desktop\AnalogClock\AnalogClock\obj\Debug\AnalogClock.exe
+C:\Users\MAK\Desktop\AnalogClock\AnalogClock\obj\Debug\AnalogClock.pdb
+D:\Visual studio projects\AnalogClock\AnalogClock\bin\Debug\AnalogClock.exe.config
+D:\Visual studio projects\AnalogClock\AnalogClock\bin\Debug\AnalogClock.exe
+D:\Visual studio projects\AnalogClock\AnalogClock\bin\Debug\AnalogClock.pdb
+D:\Visual studio projects\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csprojResolveAssemblyReference.cache
+D:\Visual studio projects\AnalogClock\AnalogClock\obj\Debug\AnalogClock.Form1.resources
+D:\Visual studio projects\AnalogClock\AnalogClock\obj\Debug\AnalogClock.Properties.Resources.resources
+D:\Visual studio projects\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csproj.GenerateResource.cache
+D:\Visual studio projects\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csproj.CoreCompileInputs.cache
+D:\Visual studio projects\AnalogClock\AnalogClock\obj\Debug\AnalogClock.exe
+D:\Visual studio projects\AnalogClock\AnalogClock\obj\Debug\AnalogClock.pdb
