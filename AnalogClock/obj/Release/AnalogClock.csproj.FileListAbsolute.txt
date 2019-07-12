@@ -1,0 +1,9 @@
+C:\Users\Александр\Documents\GitHub\analog-clock\AnalogClock\bin\Release\AnalogClock.exe.config
+C:\Users\Александр\Documents\GitHub\analog-clock\AnalogClock\bin\Release\AnalogClock.exe
+C:\Users\Александр\Documents\GitHub\analog-clock\AnalogClock\bin\Release\AnalogClock.pdb
+C:\Users\Александр\Documents\GitHub\analog-clock\AnalogClock\obj\Release\AnalogClock.Form1.resources
+C:\Users\Александр\Documents\GitHub\analog-clock\AnalogClock\obj\Release\AnalogClock.Properties.Resources.resources
+C:\Users\Александр\Documents\GitHub\analog-clock\AnalogClock\obj\Release\AnalogClock.csproj.GenerateResource.cache
+C:\Users\Александр\Documents\GitHub\analog-clock\AnalogClock\obj\Release\AnalogClock.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\GitHub\analog-clock\AnalogClock\obj\Release\AnalogClock.exe
+C:\Users\Александр\Documents\GitHub\analog-clock\AnalogClock\obj\Release\AnalogClock.pdb
